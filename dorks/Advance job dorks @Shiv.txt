@@ -1,0 +1,29 @@
+Personal dorks I created for myself @Shiv for advance job searches, etc. Tweak and replace them with your own values. Imagine if this helps someone land a cyber job lmaooo..
+
+after "OR" you can add more keywords, "inurl" can be certification-based, degree or title-based (title-based is best but i'm testing with certs and also getting solid hits.
+
+Remember to keep scrolling, google is endless, not just top results indeed.co.uk or popular sites. Hackers are hackers for a reason not just technically ;)
+Literal copy and paste if you're cybersecurity focused, but tweak to your niche/field, add keywords, etc. Copy and paste to test, real hits ngl.
+
+Basic and Best:
+
+inurl:cybersecurity "student" OR "job" "intern" OR "junior" "fresher" OR "career" OR "vacancy" OR "recruitment" OR "hiring!" OR "degree"
+
+inurl:Network Engineer "CompTIA Network+" "CCNA" "job" OR "career" OR "vacancy" OR "employment" OR "hiring!"
+
+inurl:Cyber Security Technician "CompTIA Security+" "job" OR "career" OR "vacancy" OR "employment" OR "hiring!"
+
+inurl:Threat Intel "Junior" OR "Forensics" OR "crime" "OSINT" "threat actor" "career" OR "vacancy" "recruitment"
+
+inurl:CompTIA Security+ "job" OR "career" OR "vacancy" OR "recruitment" OR "hiring!" OR "intern" OR "freshers"
+
+inurl:CompTIA Network+ "job" OR "career" OR "vacancy" OR "employment" OR "Hiring!" OR "network technician" OR "intern"
+
+Most advanced AND YOU CAN MORE JOB TITLES IN ONE SEARCH with "OR" ! the "-contract" excludes contract based work or any specified, "London" to specify location "after" means when the job was listed like recent. Again you can cut the crap out as you wish to not narrow and tweak it as you'd like. 
+Examples below:
+
+inurl:job OR inurl:careers "Pentester" OR "Hacker" OR "Red Team" "Analyst" OR "Security" OR "Junior" OR "recruitment" -contract "London" after:-19/06/2024
+
+inurl:job OR inurl:Senior "Pentester" OR "Hacker" OR "Red Team" "Analyst" OR "Security" OR "Full-time" -contract -internships "London" after:-19/06/2024
+
+inurl:job OR inurl:OSCP OR inurl:Senior "Pentester" OR "Hacker" OR "Red Team" "Analyst" OR "Security" OR "Full-time" -contract -internships
