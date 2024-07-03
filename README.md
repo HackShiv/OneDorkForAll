@@ -6,6 +6,7 @@ Now also added dark-web dorks (Educational Only!) Update, just added advance job
 Use these resources too 👍
 - https://www.exploit-db.com/google-hacking-database
 - https://dorki.io
+
 -https://github.com/Viralmaniar/BigBountyRecon (only for Windows install)
 
 # Use
