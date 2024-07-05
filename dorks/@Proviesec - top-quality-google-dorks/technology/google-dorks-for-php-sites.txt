@@ -1,0 +1,11 @@
+product.php?id=
+viewshowdetail.php?id=
+clubpage.php?id=
+memberInfo.php?id=
+tradeCategory.php?id=
+transcript.php?id=
+index.php?id=
+search.php?id=
+search.php
+index.php
+filetyp:php

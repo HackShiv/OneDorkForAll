@@ -1,0 +1,15 @@
+inurl:/awstats
+inurl:/awstats.**?amp;output=;1
+inurl:/awstats.**?amp;lang=;1
+inurl:/awstats.**?...&amp;output=;1
+inurl:/webalizer.current;1
+inurl:/xmlrpc.php;1
+inurl:/awstats.**?year=;1
+inurl:/webalizer
+inurl:/stats/usage
+inurl:/awstats -github
+inurl:system-day.html
+inurl:disk-day.html
+inurl:stats.html
+"Welcome to Grafana" intitle:Grafana
+inurl:/stats

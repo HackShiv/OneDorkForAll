@@ -1,0 +1,27 @@
+inurl:& inurl:test
+inurl:& inurl:quiz
+inurl:& inurl:survey
+inurl:& inurl:game
+inurl:& inurl:competition
+inurl:& inurl:form
+inurl:& inurl:title
+inurl:& inurl:search
+inurl:& inurl:city
+inurl:& inurl:date
+inurl:& inurl:topic
+inurl:& inurl:search inurl:q
+inurl:& inurl:search inurl:s
+index.php? inurl:& 
+inurl:search
+inurl:suche
+inurl:page
+inurl:& inurl:query
+inurl:& inurl:suche
+inurl:& inurl:input
+inurl:& inurl:next
+inurl:& inurl:target
+inurl:search inurl:page
+inurl:search inurl:p
+inurl:query filetype:html inurl:page
+inurl:query filetype:html inurl:sort
+inurl:query filetype:php

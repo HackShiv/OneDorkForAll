@@ -1,0 +1,22 @@
+intitle:"index of" inurl:app.conf
+intitle:"index of" inurl:conf
+Name Last modified Size Description inurl:conf
+filetype:conf
+configuration filetype:txt
+inurl:config.inc
+password host inurl:config filetype:txt
+inurl:config password host
+filetype:conf
+inurl:conf.xml
+inurl:conf.ini
+inurl:conf.js
+inurl:conf.json
+inurl:configuration.json
+inurl:configuration.js
+inurl:configuration.xml
+inurl:config secret host
+inurl:secret filetype:yaml
+inurl:conf filetype:xml
+inurl:Makefile.toml
+inurl:Makefile 
+inurl:conf.yaml

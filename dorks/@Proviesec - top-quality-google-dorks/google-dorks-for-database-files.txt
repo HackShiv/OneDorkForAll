@@ -1,0 +1,13 @@
+inurl:db.sql
+inurl:db.sqlite
+inurl:setup.sql
+inurl:mysql.sql
+inurl:users.sql
+inurl:backup.sql
+inurl:db filetype:sql
+inurl:backup filetype:sql
+create table  filetype:sql
+"-- MySQL dump" "Server version" "Table structure for table"
+inurl:/db/websql/
+filetype:sql
+inurl:backup filetype:sql

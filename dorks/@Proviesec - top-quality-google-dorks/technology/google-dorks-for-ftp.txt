@@ -1,0 +1,6 @@
+intitle:"index of" inurl:ftp
+filetype:url +inurl:"ftp://" +inurl:";@"
+intitle:"FTP root at"
+inurl:FTP "ftp root at"
+name size "Last modified" inurl:ftp
+"Parent Directory" "Last modified" ftp
