@@ -1,3 +1,0 @@
-inurl:"/user/register" "Powered by Drupal" 
-intitle:"index of " Drupal Author: Coudry hugo
-"Powered by Drupal"
