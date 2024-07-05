@@ -1,0 +1,77 @@
+"is proudly powered by WordPress"
+"plugins/wp-db-backup/wp-db-backup.php"
+filetype:sql inurl:wp-content/backup-*
+filetype:sql inurl:wp-content/*
+filetype:txt inurl:wp-config.txt
+intext:"the WordPress" inurl:wp-config ext:txt
+intitle:"Index of" wp-admin
+intitle:"Index of" wp-config
+intitle:"Index of" wp-config.php
+intitle:"Index of" wp-content
+intitle:"Index of" wp-upload
+inurl:"/wp-admin/setup-config.php" intitle:"Setup Configuration File"
+inurl:"/wp-content/plugins/wp-mobile-detector/" ext:php
+inurl:"/wp-content/plugins/wp-shopping-cart/"
+inurl:"/wp-content/uploads/db-backup"
+inurl:"/wp-content/uploads/levoslideshow/"
+inurl:"/wp-content/wpclone-temp/wpclone_backup/"
+inurl:"/wp-json/" -wordpress
+inurl:"/wp-login.php?action=lostpassword"
+inurl:"wp-content/uploads/file-manager/log.txt"
+inurl:"wp-content/uploads/private"
+inurl:"wp-contentpluginsall-in-one-seo-pack"
+inurl:"wp-download.php?dl_id="
+inurl:"wp-license.php?file=../..//wp-config"
+inurl:"wp-security-audit-log" ext:log
+inurl:/wp-admin/admin-ajax.php?action=revslider_ajax_action
+inurl:/wp-admin/admin.php intitle:"Log In"
+inurl:/wp-admin/includes/plugin-install.php
+inurl:/wp-admin/post.php?post=
+inurl:/wp-content/ai1wm-backups + wpress
+inurl:/wp-content/plugins/fgallery/
+inurl:/wp-content/plugins/inboundio-marketing/
+inurl:/wp-content/plugins/seo-pressor/classes/
+inurl:/wp-content/plugins/video-synchro-pdf
+inurl:/wp-content/plugins/wpSS/
+inurl:/wp-content/themes/tigin/
+inurl:/wp-content/themes/xunjin/
+inurl:/wp-content/uploads/ filetype:sql
+inurl:/wp-content/uploads/ninja-forms/ intitle:"index of"
+inurl:/wp-content/uploads/wp-backup-plus/
+inurl:/wp-content/w3tc/dbcache/
+inurl:/wp-content/wpbackitup_backups
+inurl:/wp-includes/certificates/
+inurl:/wp-json/wp/v2/users/ "id":1,"name":" -wordpress.stackexchange.com -stackoverflow.com
+inurl:/wp/ + "Login"
+inurl:/wp/wp-admin/
+inurl:log -intext:log ext:log inurl:wp-
+inurl:wp-admin/ intext:css/
+inurl:wp-admin/admin-ajax.php inurl:wp-config.php
+inurl:wp-config -intext:wp-config "'DB_PASSWORD'"
+inurl:wp-config-backup.txt
+inurl:wp-config.bak
+inurl:wp-config.php intext:DB_PASSWORD -stackoverflow -wpbeginner
+inurl:wp-content intext:backup-db
+inurl:wp-content/debug.log
+inurl:wp-content/plugins/age-verification/age-verification.php
+inurl:wp-content/uploads filetype:xls | filetype:xlsx password
+inurl:wp-content/uploads/dump.sql
+inurl:wp-links-opml.php
+inurl:wp-login.php +Register Username Password "remember me" -echo -trac -footwear
+inurl:wp-login.php Register Username Password -echo
+inurl:wp-login.php?action=register
+inurl:wp-mail.php  + "There doesn't seem to be any new mail."
+inurl:wp-mail.php + "There doesn't seem to be any new mail."
+inurl:wp-mail.php + “There doesn’t seem to be any new mail.”
+inurl:wp/wp-login.php
+site:*/wordpress/wordpress.bak/
+site:*/wp-admin/install.php intitle:WordPress Installation
+site:*/wp-admin/maint/repair.php intext:"define(WP_ALLOW_REPAIR,true);"
+site:*/wp-admin/user-edit.php
+site:*/wp-contents/ inurl:/wp-contents/
+site:*/wp-includes/ inurl:/wp-includes/
+site:*/wp-includes/Requests/php_errorlog
+site:*/wp-login?redirect_to= intitle:"login"
+site:*/wp-settings.php
+inurl:wp-content/ inurl:backups
+Index:Index of /wp-content/uploads

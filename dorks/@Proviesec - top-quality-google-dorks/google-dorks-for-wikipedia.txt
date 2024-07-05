@@ -1,0 +1,39 @@
+This page was last modified on "wiki"
+"This page was last modified on"
+"This page has been accessed"
+"There is currently no text in this page, you can search for this page title in other pages or edit this page"
+allinurl:".edu/mediawiki/index.php"
+allinurl:".com/mediawiki/index.php"
+allinurl:".net/mediawiki/index.php"
+allinurl:".org/mediawiki/index.php"
+allinurl:".info/mediawiki/index.php"
+allinurl:".com/wiki/index.php"
+allinurl:".net/wiki/index.php"
+allinurl:".org/wiki/index.php"
+allinurl:".info/wiki/index.php"
+allinurl:".edu/wiki/index.php"
+allinurl:"http://wiki."
+allinurl:"http://mediawiki."
+allinurl:"http://wikka."
+Keyword inurl:wiki
+inurl:MediaWiki_talk
+keyword "wiki" (site:.edu)
+site:.edu inurl:wiki
+site:.edu inurl:MediaWiki_talk
+site:.edu "Log in / create account"
+site:.edu wiki
+inurl:wiki
+"Log in / createaccount"
+"isa registered trademark of the Wikimedia Foundation, Inc.,"
+"wiki inurl:.edu"
+wiki inurl:.edu
+"Toolbox""This page was last modified
+inurl:"wiki/index.php?title="
+"Login required to edit"
+"wiki/index.php?title=Special:Userlogin&amp;returnto"
+inurl:wiki/index.php?title=Special:Userlogin&amp;returnto
+"Main Page""discussion""edit"
+"This page has beenaccessed""Privacy policy"
+"This page has beenaccessed""Privacy policy""wiki"
+"Wiki:About"
+"Parent Directory" "Last modified" wikipedia

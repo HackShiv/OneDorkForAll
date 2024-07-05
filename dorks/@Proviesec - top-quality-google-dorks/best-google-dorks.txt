@@ -1,0 +1,19 @@
+inurl:config pass
+inurl:config secret 
+inurl:config.php dbpasswd
+inurl:config.php pass
+inurl:config.php password
+inurl:configuration
+inurl:env
+inurl:setting
+filetype:log
+intext:"Index of /" +.htaccess
+intitle:"index of" 
+inurl:& intext:admin intext:login
+inurl:& intext:search
+inurl:config secret
+inurl:backup
+inurl:backup.zip
+inurl:quiz inurl:&
+inurl:Makefile.toml
+hostname user password filetype:xml

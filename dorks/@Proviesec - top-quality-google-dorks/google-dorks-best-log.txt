@@ -1,0 +1,17 @@
+filetype:log "PHP Parse error" | "PHP Warning" | "PHP Error"
+filetype:log "See `ipsec --copyright"
+filetype:log access.log -CVS
+filetype:log cron.log
+filetype:log intext:"ConnectionManager2"
+filetype:log inurl:"password.log"
+filetype:log inurl:password.log
+intitle:index.of cleanup.log
+intitle:index.of filetype:log
+intitle:index.of log
+filetype:log inurl:nginx
+filetype:log inurl:database
+filetype:log inurl:bin
+filetype:syslog
+allintext:username filetype:log
+inurl:error filetype:log
+inurl:nginx filetype:log
