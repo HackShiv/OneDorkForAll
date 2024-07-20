@@ -1,7 +1,7 @@
 # OneDorkForAll
 An insane list of all dorks taken from everywhere from various different sources. Google, Shodan, Github.
 Bug bounty dorks (includes private programs), shodan, github, CCTV, CMS dorks, lfi, sqli, xss, more vulns + an extra 1Mil+ dorks.
-Now also added dark-web dorks (Educational Only!) Update, just added advance job dorks techniques for multiple title searches in-one go (Hope this helps:)
+Now also added dark-web dorks (Educational Only!) (Hope this helps:)
 
 Use these resources too 👍
 - https://www.exploit-db.com/google-hacking-database
