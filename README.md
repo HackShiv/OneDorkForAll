@@ -3,7 +3,7 @@ An insane list of all dorks taken from everywhere from various different sources
 Bug bounty dorks (includes private programs), shodan, github, CCTV, CMS dorks, lfi, sqli, xss, more vulns + an extra 1Mil+ dorks.
 Now also added dark-web dorks (Educational Only!) (Hope this helps:)
 
-Use these resources too 👍
+Use these tools and resources too 👍
 - https://www.exploit-db.com/google-hacking-database
 - https://dorki.io
 - https://dorksearch.com
@@ -11,11 +11,10 @@ Use these resources too 👍
 - https://dorkgenius.com
 - https://dorks.faisalahmed.me
 - https://taksec.github.io/google-dorks-bug-bounty
-- https://elite-google-dorks-search-by-biscuit.vercel.app/
+- https://elite-google-dorks-search-by-biscuit.vercel.app
 - https://pentest-tools.com/information-gathering/google-hacking
-- https://nitinyadav00.github.io/Bug-Bounty-Search-Engine/
-- https://mr-dorker.onrender.com/
-- https://0iq.me/gip/
+- https://nitinyadav00.github.io/Bug-Bounty-Search-Engine
+- https://mr-dorker.onrender.com
 - https://github.com/Viralmaniar/BigBountyRecon (Application - only for Windows install)
 - https://x.com/ott3rly/status/1805173582101627035 (Article)
 
