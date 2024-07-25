@@ -5,6 +5,7 @@ Now also added dark-web dorks (Educational Only!) (Hope this helps:)
 
 Use these tools and resources too 👍
 - https://www.exploit-db.com/google-hacking-database
+- https://elite-google-dorks-search-by-biscuit.vercel.app
 - http://dorkking.blindf.com
 - https://dorksearch.com
 - https://pentestingdorks.netlify.app
@@ -12,7 +13,6 @@ Use these tools and resources too 👍
 - https://dorkgenius.com
 - https://dorks.faisalahmed.me
 - https://taksec.github.io/google-dorks-bug-bounty
-- https://elite-google-dorks-search-by-biscuit.vercel.app
 - https://pentest-tools.com/information-gathering/google-hacking
 - https://nitinyadav00.github.io/Bug-Bounty-Search-Engine
 - https://mr-dorker.onrender.com
